@@ -7,7 +7,7 @@ export default function Footer() {
       <footer>
         <i className="fab fa-github github-icon"></i>
         <a
-          href="https://github.com/PasqualCarstens/vanilla-weather-app"
+          href="https://github.com/PasqualCarstens/react-app"
           target="_blank"
           rel="noreferrer"
         >
